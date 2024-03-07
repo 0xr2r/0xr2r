@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align = "center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=XTechnology-TR&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true" width = 410>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XTechnology-TR&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&compact&hide_border=true&layout=compact" width=300>
 
 </p>
 
