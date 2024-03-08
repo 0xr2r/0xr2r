@@ -20,13 +20,7 @@ You can click the Preview link to take a look at your changes.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkit&langs_count=5&theme=synthwave)]()
 [![0xr2r's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenkit)](https://github.com/kenkit)
 
-### Codewars Stats
-[![0xr2r](https://www.codewars.com/users/0xr2r/badges/large)](https://www.codewars.com/users0xr2r)
 
-### MyanimeListProfile
-[![Myanimelist](https://malsignature.com/?/view?username=kenkit&style=normal)](https://myanimelist.net/animelist/0xr2r&sclick=1)
-
-<br>
 
 <p align = "center">
   
