@@ -18,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ![0xr2r's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xr2r&show_icons=true&theme=synthwave)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkit&langs_count=5&theme=synthwave)]()
-[![0xr2r's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenkit)](https://github.com/kenkit)
+
+
+[![0xr2r's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenkit)](https://github.com/0xr2r)
 
 
 
