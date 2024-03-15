@@ -1,10 +1,9 @@
 
 <!---
-0xr2r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 
-Hello, my name is 0xr2r, I'm just a c0der for hobby .. 
+#Hello, my name is 0xr2r, I'm just a c0der for hobby .. 
 
 
 
