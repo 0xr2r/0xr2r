@@ -14,10 +14,7 @@
 
 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-Win-informational?style=flat&logo=windows&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=sublime-text&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
+
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=99e836)
