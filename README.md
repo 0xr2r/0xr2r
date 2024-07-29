@@ -25,7 +25,11 @@
 
 
 
-[![0xr2r's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenkit)](https://github.com/0xr2r)
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=0xr2r" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xr2r" height=180 />
+</p>
 
 
 
