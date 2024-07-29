@@ -8,15 +8,21 @@
 
 
 
-<div align="center">
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/OS-Win-informational?style=flat&logo=windows&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=sublime-text&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-Sqlmap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 
-  <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
-  <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
-  <img src = "https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue" >
-  <img src = "https://img.shields.io/badge/go-000000.svg?style=for-the-badge&logo=go&logoColor=blue" >
-  <img src = "https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >
-
-</div>
 
 
 [![0xr2r's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenkit)](https://github.com/0xr2r)
