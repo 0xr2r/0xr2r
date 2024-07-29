@@ -4,7 +4,7 @@
 --->
 
 #
-<!-- <h3 align="left">Hello, my name is 0xr2r, I'm just a c0der for hobby ..  </h3>
+ <h3 align="left">Hello, my name is 0xr2r, I'm just a c0der for hobby ..  </h3>
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0xr2r.0xr2r)
