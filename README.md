@@ -7,9 +7,6 @@
  <h3 align="left">.  </h3>
 -  Hello, my name is 0xr2r, I'm just a c0der for hobby .
 
--  Looking for Penetration Testing or Web Development Projects
-
--  Interests : CTF & Web Designing (Creative Portfolio)
   
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
