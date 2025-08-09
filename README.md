@@ -18,7 +18,7 @@
 #                                                                    *Languages and tools*
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
-[![pler](https://img.shields.io/badge/-pler-black?style=flat&logo=pler&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/pler)
+[![pler](https://img.shields.io/badge/-pler-black?style=flat&logo=pler&link=https://github.com/Beutrano/pler)](https://github.com/https://github.com/extimative/pler)
 [![php](https://img.shields.io/badge/php--black?style=flat&logo=php&link=https://github.com/Beutrano/php)](https://github.com/https://github.com/extimative/php)
 [![bash](https://img.shields.io/badge/bash--black?style=flat&logo=bash&link=https://github.com/Beutrano/bash)](https://github.com/https://github.com/extimative/bash)
 <br><br>
