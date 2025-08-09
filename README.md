@@ -12,7 +12,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0xr2r.0xr2r)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/0xr2r?tab=repositories)
 
-<img align="right" alt="GIF" height="250" width="250"  src="https://i.ibb.co/XD3gSTB/22-00-36-8c782ea0d5a29edb8ccec39c78857ccc.jpg" />
+<img align="right" alt="GIF" height="250" width="250"  src="" />
 <p align="center">Hello, my name is 0xr2r, I'm just a c0der for hobby</p>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
