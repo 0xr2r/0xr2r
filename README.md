@@ -17,15 +17,9 @@
 
 
 
-<br><br>
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=0xr2r&layout=compact)](https://github.com/https://github.com/extimative/language)
 <br>
 [![status](https://github-readme-stats.vercel.app/api?username=0xr2r&show_icons=true)](https://github.com/https://github.com/extimative/status)
-
-  <br>
-  
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=0xr2r&theme=transparent">
- </p>
 
 
 
